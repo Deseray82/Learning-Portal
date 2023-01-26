@@ -1,0 +1,19 @@
+{
+  "name": "student",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NMHS-Dev/Learning-Portal.git"
+  },
+  "author": "D Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NMHS-Dev/Learning-Portal/issues"
+  },
+  "homepage": "https://github.com/NMHS-Dev/Learning-Portal#readme"
+}
